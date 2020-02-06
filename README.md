@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The way we build our app is no different than all the apps we've been building so far. We will have a main parent component. Each of the individual "pages" of our app will be separate components that feed into the main component. The magic React Router brings to to the table is basically choosing which components to show and which to hide. To make this feel natural, all of this navigating is tied in with our browser's address bar and back/forward buttons, so it is all made to look seamless.
 
 ## Available Scripts
 
